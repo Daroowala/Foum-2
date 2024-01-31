@@ -5,6 +5,7 @@ form {
   width: 700px;
   padding: 2px;
   margin: 10px auto;
+  text-align: center;
 }
 input {
   padding: 5px;
@@ -41,4 +42,14 @@ h1{
 }
 fieldset{
   border-color: brown;
+  border-radius: 25px;
+  background-color: bisque;
+}
+legend{
+  color: red;
+  font-weight: 600;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: black;
+  border-radius: 25px;
 }
